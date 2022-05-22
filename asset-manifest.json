@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/ManageStudentsDirectory/static/css/main.fe94b9b4.chunk.css",
+    "main.js": "/ManageStudentsDirectory/static/js/main.e6f63c20.chunk.js",
+    "main.js.map": "/ManageStudentsDirectory/static/js/main.e6f63c20.chunk.js.map",
+    "runtime-main.js": "/ManageStudentsDirectory/static/js/runtime-main.37b0947f.js",
+    "runtime-main.js.map": "/ManageStudentsDirectory/static/js/runtime-main.37b0947f.js.map",
+    "static/css/2.0a9ec390.chunk.css": "/ManageStudentsDirectory/static/css/2.0a9ec390.chunk.css",
+    "static/js/2.2977dce1.chunk.js": "/ManageStudentsDirectory/static/js/2.2977dce1.chunk.js",
+    "static/js/2.2977dce1.chunk.js.map": "/ManageStudentsDirectory/static/js/2.2977dce1.chunk.js.map",
+    "index.html": "/ManageStudentsDirectory/index.html",
+    "static/css/2.0a9ec390.chunk.css.map": "/ManageStudentsDirectory/static/css/2.0a9ec390.chunk.css.map",
+    "static/css/main.fe94b9b4.chunk.css.map": "/ManageStudentsDirectory/static/css/main.fe94b9b4.chunk.css.map",
+    "static/js/2.2977dce1.chunk.js.LICENSE.txt": "/ManageStudentsDirectory/static/js/2.2977dce1.chunk.js.LICENSE.txt",
+    "static/media/avatar.6552e88a.png": "/ManageStudentsDirectory/static/media/avatar.6552e88a.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.37b0947f.js",
+    "static/css/2.0a9ec390.chunk.css",
+    "static/js/2.2977dce1.chunk.js",
+    "static/css/main.fe94b9b4.chunk.css",
+    "static/js/main.e6f63c20.chunk.js"
+  ]
+}
